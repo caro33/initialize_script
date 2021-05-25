@@ -1,6 +1,6 @@
 #! /bin/bash
 
-URL="https://raw.githubusercontent.com/ohilho/initialize_script/master"
+URL="https://raw.githubusercontent.com/caro33/initialize_script/master"
 source <(curl -fsSL ${URL}/common.sh)
 
 # set defualt gitconfig
