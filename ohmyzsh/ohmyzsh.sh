@@ -1,7 +1,7 @@
 #! /bin/bash
 BASE_DIR=$(dirname "$0")
 CUR_DIR=$(pwd)
-URL="https://raw.githubusercontent.com/ohilho/initialize_script/master"
+URL="https://raw.githubusercontent.com/caro33/initialize_script/master"
 source <(curl -fsSL ${URL}/common.sh)
 
 # dependent packages
