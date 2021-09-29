@@ -39,6 +39,6 @@ $ source <(curl -fsSL https://raw.githubusercontent.com/ohilho/initialize_script
   - powerlevel10k (https://github.com/romkatv/powerlevel10k)
 
 ```
-source <(curl -fsSL https://raw.githubusercontent.com/ohilho/initialize_script/master/ohmyzsh/ohmyzsh.sh)
+source <(curl -fsSL https://raw.githubusercontent.com/caro33/initialize_script/master/ohmyzsh/ohmyzsh.sh)
 ```
 
